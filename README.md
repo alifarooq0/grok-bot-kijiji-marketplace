@@ -2,6 +2,8 @@
 
 Agent Plugin (skills-only) for buying and selling on [Kijiji](https://www.kijiji.ca). Built for **Grok Bot** using the Agent Plugins layout.
 
+Marketplace logo: `assets/logo.png` (original plugin mark, not Kijiji trademark).
+
 ## Layout
 
 ```text
