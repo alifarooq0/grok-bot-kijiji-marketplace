@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "kijiji-marketplace",
+  "version": "0.1.0",
+  "description": "Skills for buying and selling on Kijiji: search listings, draft ads, research prices, and message sellers.",
+  "author": {
+    "name": "Ali Farooq"
+  },
+  "license": "MIT",
+  "keywords": [
+    "kijiji",
+    "marketplace",
+    "classifieds",
+    "canada",
+    "grok-bot"
+  ],
+  "repository": "https://github.com/alifarooq0/kijiji-marketplace"
+}
